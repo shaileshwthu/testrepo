@@ -16,6 +16,7 @@ public class Display {
 		Display display = new Display("My name is shailesh");
 		display.displayName();
 		System.out.println("This is a demo");
+		System.out.println("this is a second demo");
 	}
 
 }
