@@ -17,6 +17,8 @@ public class Display {
 		display.displayName();
 		System.out.println("This is a demo");
 		System.out.println("this is a second demo");
+		System.out.println("This is a new branch");
+		System.out.println("This is a next branch");
 	}
 
 }
